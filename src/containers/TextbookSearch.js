@@ -4,7 +4,6 @@ import ClassPicker from "../components/ClassPicker";
 import TextbookPicker from "../components/TextbookPicker";
 import Autosuggest from 'react-autosuggest';
 import Modal from 'react-responsive-modal';
-import LoadingModal from "react-responsive-modal";
 import OrderForm from "../components/OrderForm";
 import "../components/Modal.css";
 import "./TextbookSearch.css";
