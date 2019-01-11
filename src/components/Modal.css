@@ -1,0 +1,9 @@
+.custom-modal {
+  padding:4rem;
+  padding-bottom: 2rem;
+}
+
+.loading-modal {
+  background-color:transparent;
+  box-shadow: none;
+}

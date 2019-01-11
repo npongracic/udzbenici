@@ -1,0 +1,51 @@
+.subject td {
+    background-color: #F5F5F5;
+    padding-left:1rem!important;
+    font-weight: bold;
+}
+
+.align-right {
+    text-align: right!important;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.price {
+    font-weight: 600;
+    color:#E45E49;
+}
+
+.textbooks-title {
+    margin-top: 2rem;
+}
+
+.textbooks-title h5 {
+    margin-top: 0;
+    margin-bottom:0!important;
+    font: 2.4rem Georgia, "Times New Roman", serif;
+}
+
+.selections {
+    padding: 0 0.5rem;
+    text-align:right;
+}
+
+.selections label {
+    margin-bottom:0;
+}
+
+.icon-info {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACX0lEQVQ4jaWUPUscURSGn3eQLRYLWUQGWRiLtUkRREQsg1UKEXbyB9KkSJf8gBAkdUiaVCnSpXMUEUwlliISUqRzimxYwmCxpFgsJOybYu7sjosmgRyYz3vuc859z7lXxtxmSZa3gNgwK2gYrgVDcNFLlwe3TgI0DUyyfA54YLsrsQa0QU3wFVbf4lx4D3TSSzs//whMsosYtGPYFo5tBpI+GX4IFm0/lNQCCuAA/LKXLhe3ApPdPEbsAetAFMa/GJ6ofK4I3gMrBgQjzCniUS/tjKFRCbuYM35Vh7m8RcKjXtr5JTzCRDaomis2DDtBJgBmwuRNSVsTmBECeQn0OsnyAagVvgGwjaRIZhtxBOwDREmWz0vqAvHYEQG+BH0FGrZjcAtoKEgkhTxFbOiGrmAGWDCsEkBCVfSPvbTzvFb9VeADcD9oODF7DSkGBjOUfdZGNRdP5KjZKFw3YWW6bWAWIDI0gGYdJgmbx0mWHyXZxb1K14mLwaU8IUCTkkMkuAZfTaJVgjNb6qpG+Vs1F4FCuct2uAKuoazqEKtfRZs2Tz3Hb1YAg6Fve1gBC8T5uGphydgF+ExmCCAzND7DXLq2kjKAzpGK4GeSLE+Bd4TWCfa2XuXKkt38DeJZ6ASAwvD0e9rZrzIEOLY5JFTRNndJUKbgajEj4wPg5MYwQJLli8Au9jpShP3N0ulEt6oo3hBaAkbYZ0jd+l6eOm3yRWAH2Jpa/pgZtmUBHIJf3Hna1KBzmE1DV2IVaGOaiCtDH/gM7AmO/3oeToHngQXKHdCg7LMhUPTSzr+f2P9rvwG7mCksxbW0fgAAAABJRU5ErkJggg==);
+    display:block;
+    height:2rem;
+    background-repeat:no-repeat;
+    background-position:center center;
+    cursor:pointer;
+}
+
+.wrapper td {
+    font-size: 1.2rem;
+    padding: 5px 15px;
+}

@@ -1,0 +1,14 @@
+.input-error {
+    border:1px solid #E57373 !important;
+    background-color:#FFCDD2!important;
+    color:#EF5350;
+}
+
+.field-error {
+    color:#EF5350;
+}
+
+
+.delivery, .paymentType {
+    width:100%;
+}
